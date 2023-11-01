@@ -1,4 +1,4 @@
-package com.webtoom;
+package com.webtoom.day1;
 
 public class BiggestOfTwoNumber {
     public static void main (String [] args)
