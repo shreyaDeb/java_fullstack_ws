@@ -6,5 +6,6 @@ public class BiggestOfTwoNumber {
         int a = 123232421;
         int b = 123282421;
         System.out.println("Biggest is: " + (a > b ?  a : b));
+        System.out.println("Trying out the branching");
     }
 }
